@@ -9,7 +9,7 @@ Replace your initials in this file with the word "HERE" to demonstrate that you 
  6. HERE
  7. DG
  8. HERE
- 9. HERE
+ 9. KH
  8. HERE
  9. HERE
 10. HERE
@@ -17,9 +17,9 @@ Replace your initials in this file with the word "HERE" to demonstrate that you 
 12. HERE
 13. HERE
 14. HERE -- SP
-15. GR
+15. HERE
 16. HERE
-17. HERE
+17. FS
 18. HERE
 19. HERE
 20. HERE
